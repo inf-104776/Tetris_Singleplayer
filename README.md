@@ -20,7 +20,9 @@ Falls du auch andere Personen an deinem Rechner spielen lässt, noch eine kleine
 Mara :)
 
 ### Hier nochmal die Steuerung 
-Stein bewegen
+
+Für die normale Version:
+Stein bewegen 
  - links: a 	
  - rechts: d 	
  - runter: s (kein Fallen)
@@ -28,6 +30,11 @@ Stein bewegen
 Stein rotieren 
 - links: Pfeiltaste links
 - rechts:  Pfeiltaste rechts
+
+Für die Version mit Pfeiltasten (Tetris_arrowkeys)
+Stein bewegen: Pfeiltasten links und rechts
+Stein fallen lassen: Pfeiltaste runter
+Rotieren: Leertaste 
 
 Menü einblenden: Escape
 
